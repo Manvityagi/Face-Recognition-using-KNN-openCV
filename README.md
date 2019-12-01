@@ -25,3 +25,5 @@ Classifier - Haar Cascades
 * Run the Building Face Classifier.ipynb file!
 
 ## Demo Images
+### Training_1
+ ![Training_1](https://github.com/Manvityagi/Face-Recognition-using-KNN-openCV/raw/master/images/training_1.jpeg)
