@@ -27,3 +27,11 @@ Classifier - Haar Cascades
 ## Demo Images
 ### Training_1
  ![Training_1](https://github.com/Manvityagi/Face-Recognition-using-KNN-openCV/raw/master/images/training_1.jpeg)
+ ### Training_2
+ ![Training_2](https://github.com/Manvityagi/Face-Recognition-using-KNN-openCV/raw/master/images/training_2.jpeg)
+ ### Training_3
+ ![Training_3](https://github.com/Manvityagi/Face-Recognition-using-KNN-openCV/raw/master/images/training_3.jpeg)
+ ### Testing_1
+ ![Testing_1](https://github.com/Manvityagi/Face-Recognition-using-KNN-openCV/raw/master/images/test_1.jpeg)
+  ### Testing_2
+ ![Testing_2](https://github.com/Manvityagi/Face-Recognition-using-KNN-openCV/raw/master/images/test_2.jpeg)
